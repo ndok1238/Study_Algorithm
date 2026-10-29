@@ -15,5 +15,5 @@ def multiply(a, b):
 
 def divide(a, b):
     if b == 0:
-        raise ValueError("0으로 나눌 수 없습니다")
+        raise ValueError("[B] 0으로 나누기는 허용되지 않습니다")
     return a / b
