@@ -1,0 +1,19 @@
+# 비밀 정보
+.env
+.env.*
+*.pem
+*.key
+id_*
+
+# 에디터/OS
+.vscode/
+.idea/
+.obsidian/
+.DS_Store
+Thumbs.db
+
+# 의존성/빌드
+node_modules/
+dist/
+__pycache__/
+*.log
