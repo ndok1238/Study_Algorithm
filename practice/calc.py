@@ -17,3 +17,7 @@ def divide(a, b):
     if b == 0:
         raise ValueError("[A] 나누는 수는 0이 될 수 없습니다")
     return a / b
+
+
+def power(a, b):
+    return a ** b
