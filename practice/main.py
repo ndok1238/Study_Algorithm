@@ -9,7 +9,8 @@ def main():
     print("multiply:", multiply(6, 3))
     print("divide:", divide(6, 3))
     print("total:", total([1, 2, 3, 4]))
-    print("average:", average([1, 2, 3, 4]))
+    print("average1:", average([1, 2, 3, 4]))
+    print("average2:", average([1, 2, 3, 4]))
 
 
 if __name__ == "__main__":
